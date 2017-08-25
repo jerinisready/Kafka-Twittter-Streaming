@@ -1,0 +1,10 @@
+argparse
+distribute
+oauthlib
+requests
+requests-oauthlib
+twython
+wsgiref
+kafka
+requests_oauthlib
+happybase
