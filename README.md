@@ -46,17 +46,17 @@ TOKEN_SECRET = 'ysLFG2v..............................CA8p1GXo'
 
 
 ###### Make Sure You Have A table with :     [CONFIGURABLE] 
-```
-TOPIC = 'myWorld'
-TABLE NAME   = 'tweet-table'
-COLUMN FAMILY = 'json'
-COLUMN NAME = 'data'
-```
+|TOPIC | 'myWorld' |
+|---|---|
+|TABLE NAME   | 'tweet-table' |
+|COLUMN FAMILY | 'json' |
+|COLUMN NAME | 'data' |
 
 
-| --- |data|
+
+| --- |COLUMN FAMILY|
 | --- | --- |
-| KEY | json |
+| KEY | COLUMN NAME |
 | ------- | ------------------------------------------------- |
 | row 1 | Data 1 |
 | row 2 | Data 2 |
